@@ -1,5 +1,5 @@
 <h1 align="center">Ercent Tannius</h1>
-<p align="center"><b>Intelligent Systems Student @ BINUS University</b></p>
+<p align="center"><b> Computer Science Student Streaming Intelligent Systems @ BINUS University</b></p>
 
 <p align="center">
 I'm a Computer Science student at BINUS University, specializing in Intelligent Systems, with a strong interest in Artificial Intelligence, Data Analytics, and Software Development. I enjoy using technology and data to solve real-world problems through analytical thinking and innovative solutions. Through academic projects, I've built experience in data analysis, machine learning, system development, and user-centered design — and I'm always eager to explore emerging technologies while contributing to impactful, collaborative projects.
